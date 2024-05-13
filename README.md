@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blueGalkin
+- 👋 Hi, I’m @nicorizz
 - 👀 I’m interested in coding Android and iOS apps
 - 🌱 I’m currently learning Flutter and C++
 - 📫 How to reach me Telegram and Discord
